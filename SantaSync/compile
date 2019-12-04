@@ -1,0 +1,1 @@
+﻿gcc -x c collector.h collector.c santa.h worker.h santa.c worker.c helper.c helper.h main.c -o start -lrt -lpthread
